@@ -38,7 +38,7 @@ body {
 
 .school-name {
     font-size: 1.2rem; /* Scales better on different screens */
-    color: #333;
+    color:#003399;
     margin: 0;
    
   font-family: "Moul", serif;
@@ -50,7 +50,7 @@ body {
 .school-subtitle {
     font-size: 1.2rem;
     
-    color: #666;
+    color:#FF0000;
     margin: 0;
     font-family:'Times New Roman', Times, serif;
     text-align: center;
